@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="旺财"
-        android:textSize="35sp"
+        android:textSize="30sp"
         android:gravity="center"
         android:id="@+id/dogName"
         />
